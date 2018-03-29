@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Stage One - Fall 10 Times.unity
+- path: Assets/Scenes/Stage One - Fall 10 Times Success.unity
   isLoaded: 1
   isActive: 1
